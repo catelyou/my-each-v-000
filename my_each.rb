@@ -9,6 +9,6 @@ def my_each(collection)
 
     collection
   else
-    puts "Wrong!"
+    "Wrong!"
   end
 end

@@ -10,4 +10,5 @@ def my_each(collection)
     collection
   else
     puts "Wrong!"
+  end
 end
